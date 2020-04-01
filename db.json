@@ -1,4 +1,6 @@
-{
+[
+  {
+    "name": "Home",
     "devices": [
       {
         "category": "Oven",
@@ -161,5 +163,7 @@
           "Mode 4"
         ]
       }
-    ]
+    ],
+    "totalDevices": 9
   }
+]
